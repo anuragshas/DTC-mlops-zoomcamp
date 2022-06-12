@@ -136,3 +136,7 @@ dmypy.json
 *.db
 
 */artifacts/*
+
+*.b
+
+*.bin
